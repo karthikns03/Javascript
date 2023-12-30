@@ -1,6 +1,6 @@
 'use strict';
 
-/*
+
 ///////////////////////////////////////
 // Activating Strict Mode
 let hasDriversLicense = false;
@@ -558,9 +558,8 @@ HINT: Call calcTip in the loop and use the push method to add values to the tips
   4.3. Call the function with the 'totals' array
 
 GOOD LUCK 😀
-*/
 
-/*
+
 const calcTip = function (bill) {
   return bill >= 50 && bill <= 300 ? bill * 0.15 : bill * 0.2;
 }
@@ -586,4 +585,4 @@ const calcAverage = function (arr) {
 console.log(calcAverage([2, 3, 7]));
 console.log(calcAverage(totals));
 console.log(calcAverage(tips));
-*/
+
